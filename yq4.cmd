@@ -1,0 +1,1 @@
+C:\ProgramData\chocolatey\lib\yq\tools\yq.exe %*

@@ -1,0 +1,1 @@
+cmd /c comparator.py input1-canonical.xml input2-canonical.xml output1.txt output2.txt

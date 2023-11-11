@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraryCatalog>
+    <books>
+        <c />
+        <book cc="33" aa="12" id="2">
+            <title>To Kill a Mockingbird</title>
+            <year>1960</year>
+        </book>
+        <a />
+        <book id="1" >
+            <title>The Catcher in the Rye</title>
+            <year>1951</year>
+        </book>
+        <book id="100">
+            <title>1984</title>
+            <year>1949</year>
+        </book>
+    </books>
+</libraryCatalog>
